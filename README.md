@@ -8,4 +8,4 @@ My name is Serawork. I have a PhD in computer science from [ENIB](https://www.en
 - **DS/ML/DL**: &nbsp;&nbsp;  NumPy, SciPy, Pandas, Scikit-Learn, OpenCV, Tensorflow, Keras
 - **DevOps**:  &ensp;&nbsp;   Linux, Git
 
-### Contact me [LinkedIn](https://www.linkedin.com/in/serawork-wallelign/),  email: seraworkw@gmail.com
+### Contact me [LinkedIn](https://www.linkedin.com/in/serawork-wallelign/)
