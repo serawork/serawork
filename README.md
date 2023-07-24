@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Serawork. I have a PhD in computer science from [ENIB](https://www.enib.fr/en/), France. My thesis work focused on automatizing the manual quality assessment of coffee beans using artificial intelligent techniques - Convolutional Neural Networks (CNN) and computer vision. I designed a mobile application (named InfoBuna) and deployed the deep learning model. After completing my studies, I joined University of Grenoble as a postdoc researcher and worked on different projects which are centered on applying deep learning for automated planning. I am currently looking for data science roles.
+My name is Serawork. I hold a PhD in computer science from [ENIB](https://www.enib.fr/en/), France. My thesis work focused on automating the manual quality assessment of coffee beans using artificial intelligence techniques - Convolutional Neural Networks (CNN) and computer vision. I designed a mobile application called InfoBuna and deployed the deep learning model to achieve this goal. After completing my studies, I joined the University of Grenoble as a postdoctoral researcher and have been involved in various projects centered around applying deep learning for automated planning. Currently, I am actively seeking data science/Machine learning roles.
 
 ### Currently learning: 
 - Machine learning on AWS
